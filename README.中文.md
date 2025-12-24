@@ -130,7 +130,7 @@ list:
     <td><code>brew install just</code></td>
   </tr>
   <tr>
-    <td><a href="https://en.wikipedia.org/wiki/MacOS">macOS</a></td>
+    <td><a href="https://th.wikipedia.org/wiki/MacOS">macOS</a></td>
     <td><a href="https://www.macports.org">MacPorts</a></td>
     <td><a href="https://ports.macports.org/port/just/summary">just</a></td>
     <td><code>port install just</code></td>
